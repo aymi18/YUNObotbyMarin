@@ -3,7 +3,7 @@ const { Hercai } = require('hercai');
 const herc = new Hercai();
 
 module.exports.config = {
-  name: 'marin',
+  name: 'yuno',
   version: '1.0.0',
   hasPermssion: 0,
   credits: 'Marjhun Baylon',//wag nyo sana i change credits 
