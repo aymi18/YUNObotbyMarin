@@ -1,0 +1,46 @@
+{
+    "6959753257414991": {
+        "threadInfo": {
+            "threadID": "6959753257414991",
+            "threadName": "BOT",
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "100001104336961"
+                }
+            ],
+            "participantIDs": [
+                "61551954697260",
+                "61553569929628",
+                "61554094261965",
+                "100001104336961"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1701848676414
+        },
+        "data": {
+            "timestamp": 1701848676414
+        }
+    },
+    "100095262681590": {
+        "threadInfo": {
+            "threadID": "100095262681590",
+            "threadName": null,
+            "emoji": "🧋",
+            "adminIDs": [],
+            "participantIDs": [
+                "100095262681590",
+                "61558009492999"
+            ],
+            "isGroup": false
+        },
+        "createTime": {
+            "timestamp": 1711867997710
+        },
+        "data": {
+            "timestamp": 1711867997710
+        }
+    }
+}
