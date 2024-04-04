@@ -24,7 +24,7 @@
       "Theme": "Pink"
     }
   },
-  "APPSTATEPATH": "marinstate.json",
+  "APPSTATEPATH": "marinstate.dev.json",
   "DEL_FUNCTION": false,
   "ADD_FUNCTION": true,
   "CONNECT_LOG": false,
