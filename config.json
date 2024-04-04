@@ -41,7 +41,7 @@
   "version": "1.5.3",
   "daily": {
     "cooldownTime": 43200000,
-    "rewardCoin": 500
+    "rewardCoin": 1000
   },
   "work": {
     "cooldownTime": 1200000
